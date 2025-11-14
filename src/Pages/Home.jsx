@@ -1,12 +1,7 @@
 import React from 'react'
 
-function Home() {
+export default function Home() {
   return (
-    <>
-     <div className='text-green-500'>Home i m surajan shrestha</div>
-    </>
-   
+    <div>All section goes here</div>
   )
 }
-
-export default Home
